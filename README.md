@@ -1,6 +1,6 @@
 # My Custom Hover Cards Widget for Elementor
 
-This WordPress plugin adds a fully customizable **hover card widget** to Elementor. It allows you to display a heading, a list of items with optional links, and stylish hover animations with background images, overlay controls, and flexible responsive settings.
+This WordPress plugin adds a fully customizable **hover card widget**[https://codepen.io/Yoni-Silvestre/pen/empYYXG] to Elementor. It allows you to display a heading, a list of items with optional links, and stylish hover animations with background images, overlay controls, and flexible responsive settings.
 
 ---
 
